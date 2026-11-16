@@ -7,6 +7,7 @@
  */
 public abstract class Creature
 {
+    private int str;
     private int max_hp;
     private int hp;
 
